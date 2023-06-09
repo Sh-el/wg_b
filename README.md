@@ -102,7 +102,7 @@ Wg.Animals.Cats.count_cats_by_color
 ```
 
 
-# 2-е задание
+# 2nd task
 
 We continue the analysis of our cats.
 
